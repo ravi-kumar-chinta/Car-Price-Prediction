@@ -44,8 +44,7 @@ Whether you're a **car dealer, online marketplace, or an individual buyer/seller
 - **Python 🐍** – Core programming  
 - **Pandas, NumPy** – Data manipulation & preprocessing  
 - **Scikit-learn, XGBoost** – Machine learning algorithms  
-- **Matplotlib, Seaborn** – Data visualization  
-- **Streamlit / Tkinter** – Optional GUI interface for interactive predictions  
+- **Matplotlib, Seaborn** – Data visualization   
 
 ---
 
